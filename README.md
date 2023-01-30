@@ -7,3 +7,5 @@ The dashboard gives an idea about the Movie details such as budget, gross earnin
 different top 10 categories. The data for the visualisation was taken from the Kaggle site. All the data analysis and an interactive dashboard were created in Tableau Desktop Software.
 ### Objective
 To help the target audience to have an easy understanding of available data and save hours of searching multiple platforms for relevant information.
+### Tool
+* Tableau Desktop
